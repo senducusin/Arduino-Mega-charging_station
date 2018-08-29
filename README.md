@@ -39,7 +39,7 @@ This is a simple charging station kiosk project with a locker feature using Ardu
 
 https://www.digikey.com/schemeit/project/charger-lock-A9QGMDO4022G/
 
-## Built With
+## Built with
 
 Arduino IDE: https://www.arduino.cc/en/Main/Software
 
